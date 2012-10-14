@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main(){int i;char s[] = "#include <stdio.h>int main(){int i;char s[] = ;for (i=0; i< 18; i++)putchar(s[i]);putchar(10);for (i=18; i< 46; i++)putchar(s[i]);putchar(34);printf(s);putchar(34);for (i=46; i< 212; i++)putchar(s[i]);return 0;}";for (i=0; i< 18; i++)putchar(s[i]);putchar(10);for (i=18; i< 46; i++)putchar(s[i]);putchar(34);printf(s);putchar(34);for (i=46; i< 212; i++)putchar(s[i]);return 0;}
